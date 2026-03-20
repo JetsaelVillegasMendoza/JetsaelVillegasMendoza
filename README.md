@@ -45,8 +45,8 @@ Let’s build something meaningful with data 🚀
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jetsaelvillegas)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/JetsaelVillegasMendoza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jetsaelvillegasmendoza/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/JetsaelVillegasMendoza?tab=repositories)
 
 ---
 
@@ -63,6 +63,7 @@ Let’s build something meaningful with data 🚀
 
 ### 📈 Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
 ### ⚙️ Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -79,6 +80,8 @@ https://github.com/JetsaelVillegasMendoza/telecom_x_parte_2
 → End-to-end ML project: data cleaning, modeling, evaluation  
 
 🔹 **Alura Store – Sales Analysis**  
+https://github.com/JetsaelVillegasMendoza/alura-store-challenge
+
 → Data analysis project focused on business insights and visualization  
 
 🔹 **YolliCalli – E-commerce Platform**  
