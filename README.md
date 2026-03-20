@@ -1,14 +1,109 @@
 # 💫 About Me:
-¡Hola a todos! 👋 <br><br>Soy Jetsael, un apasionado programador proveniente de México con un ardiente deseo de aprender y destacarme en el emocionante mundo de la tecnología.<br><br>Desde que descubrí mi pasión por la programación, me he sumergido de lleno en el universo del desarrollo de software, ansioso por absorber todo el conocimiento posible y aplicarlo en proyectos innovadores. Mi enfoque siempre ha sido el de superarme constantemente y enfrentar nuevos desafíos con determinación y entusiasmo.<br><br>Me considero un eterno aprendiz, siempre dispuesto a explorar nuevas tecnologías y metodologías, ya que creo firmemente que la clave del éxito radica en la capacidad de adaptarse y evolucionar en un entorno tan dinámico como el de la tecnología de la información.<br><br>Mi objetivo es contribuir de manera significativa en proyectos que desafíen mis habilidades y me permitan crecer tanto profesional como personalmente. Estoy emocionado por la oportunidad de colaborar con equipos talentosos y creativos, aportando mi pasión, energía y dedicación a cada tarea que emprendamos juntos.<br><br>¡Estoy listo para sumergirme en nuevos desafíos y llevar mis habilidades al siguiente nivel! Si estás buscando un colaborador entusiasta y comprometido para tu equipo de TI, ¡no dudes en contactarme! Estoy ansioso por ser parte de proyectos emocionantes y contribuir al éxito de tu equipo.<br><br>¡Vamos a construir algo increíble juntos! 💻✨<br><br>
+Hi! I'm Jetsael 👋  
+
+I'm a **Data Science Trainee** with a background in communication, currently focused on building data-driven solutions using Python and machine learning.  
+
+I recently completed a professional training program in **Data Science & Machine Learning (Oracle Next Education)**, where I developed projects involving data analysis, predictive modeling, and ETL processes.  
+
+## 🚀 What I do
+- Build and evaluate machine learning models (classification & regression)
+- Perform data cleaning, EDA, and feature engineering
+- Work with real-world datasets to generate actionable insights
+- Communicate results clearly through visualizations and reports  
+
+## 🧠 Current Focus
+- Predictive modeling (churn, classification problems)
+- Model evaluation (ROC-AUC, Precision, Recall, F1)
+- End-to-end data workflows (ETL → modeling → insights)
+- Improving deployment and reproducibility of ML projects  
+
+## 📌 Featured Projects
+**📊 Telecom X – Churn Prediction**  
+- Built classification models (Decision Tree, Random Forest) to predict customer churn  
+- Optimized models with GridSearchCV and evaluated using key metrics  
+
+**📈 Alura Store – Sales Analysis**  
+- Analyzed sales performance across multiple branches using Pandas  
+- Generated insights for business decision-making through visualizations  
+
+## 💡 Background
+Before transitioning into tech, I worked in **media and content**, developing strong skills in:
+- Research & analysis  
+- Data interpretation  
+- Communication of complex information  
+
+Now I combine that with data science to turn data into clear, useful insights.  
+
+## 🤝 Open to
+- Data Science / Data Analyst entry-level roles  
+- Collaborative projects involving data & ML  
+- Opportunities to grow in real-world environments  
+
+Let’s build something meaningful with data 🚀
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jetsaelvillegas) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JetsaelVillegasMendoza) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JetsaelVillegasMendoza&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JetsaelVillegasMendoza&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JetsaelVillegasMendoza&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jetsaelvillegas)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/JetsaelVillegasMendoza)
 
+---
+
+## 🧰 Tech Stack (Focused on Data Science)
+
+### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Data Analysis & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+### 📈 Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
+
+### ⚙️ Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📂 Featured Repositories
+
+🔹 **Telecom X – Churn Prediction**  
+https://github.com/JetsaelVillegasMendoza/telecom_x_parte_2  
+→ End-to-end ML project: data cleaning, modeling, evaluation  
+
+🔹 **Alura Store – Sales Analysis**  
+→ Data analysis project focused on business insights and visualization  
+
+🔹 **YolliCalli – E-commerce Platform**  
+https://github.com/DhyanaIxchelVerjanVargas/Proyecto-YolliCalli  
+→ Front-end + product module implementation  
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=JetsaelVillegasMendoza&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=JetsaelVillegasMendoza&theme=dracula&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JetsaelVillegasMendoza&theme=dracula&hide_border=true&layout=compact)
+
+---
+
+## 🚀 Currently Learning
+- Advanced model optimization (GridSearchCV, tuning strategies)
+- Improving ML pipelines and reproducibility
+- Data storytelling for decision-making
+
+---
+
+## 💬 Fun Fact
+I transitioned from **media & storytelling → data science**,  
+so I don’t just analyze data… I make it understandable.
